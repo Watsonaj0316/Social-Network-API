@@ -1,6 +1,6 @@
 # Social-Network-API
 
-## Description.
+## Description
 
 NoSQL Social Network API is a Node.js application programming interface (API) that allows users to perform CRUD operations on social networking data models using a NoSQL database. The data models include users, friends, thoughts, and reaction data models, and they can be retrieved by ID or by all. This API is built using Node.js and Mongoose, and it provides a simple way to handle social networking data without the restrictions of traditional relational databases.
 
@@ -18,6 +18,9 @@ NoSQL Social Network API is a Node.js application programming interface (API) th
 - [License](License)
 
 - [Questions](#questions)
+
+## Live-Screen-Recording-of-Application-Functionality
+https://www.loom.com/share/947cfbc90e454008a3b29917db064555
 
 ## Technologies Used
 
